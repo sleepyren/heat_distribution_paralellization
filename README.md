@@ -50,4 +50,3 @@ Notes
     Ensure that the dimensions and the number of iterations are chosen considering the capabilities of the executing system, especially for large sizes, as the computational and memory requirements increase significantly.
     The OpenMP version will likely perform better on systems with multiple cores, particularly for larger grid sizes and higher iteration counts.
 
-For any issues or further information, refer to the source code comments or contact the development team.
